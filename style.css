@@ -1,0 +1,104 @@
+.heading{
+    color: limegreen;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+body{
+    margin: 40px;
+    background-color: #f7f2f3;
+}
+.grid img{
+ border: 2px solid #000000;
+ border-radius: 50px;
+}
+
+.teddy{
+    border-radius: 20px;
+    float: left;
+    background-color:lemonchiffon;
+    padding: 30px;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
+
+.cicada{
+    border-radius: 20px;
+    float: left;
+    background-color: lightsteelblue;
+    margin: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
+
+.panda{
+    border-radius: 20px;
+    float: left;
+    background-color: lightcyan;
+    margin: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
+
+.pigeon{
+    border-radius: 20px;
+    float: left;
+    background-color: lightpink;
+    margin: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
+
+.chameleon{
+    border-radius: 20px;
+    float: left;
+    background-color: thistle;
+    margin: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
+
+.camel{
+    border-radius: 20px;
+    background-color: coral;
+    float: left;
+    margin: 30px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 350px;
+}
